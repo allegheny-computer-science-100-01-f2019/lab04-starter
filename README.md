@@ -4,7 +4,7 @@
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/) and
 [GatorGrader](https://github.com/GatorEducator/gatorgrader/), this repository
-contains the solution for a fourth laboratory assignment in CMPSC 100-01.
+contains the starter files for a fourth laboratory assignment in CMPSC 100-01.
 The Travis CI builds for this repository will not initially pass,
 as evidenced by  a red
 &#x2717; appearing in the commit logs instead of a green &#x2714;.
